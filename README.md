@@ -1,2 +1,3 @@
-# desafio-projeto-git-github-dio
-Projeto acadêmico de primeiro repositório no GitHub.
+# Projeto de repositório da DIO.
+
+Projeto acadêmico de primeiro repositório no Git/GitHub.
